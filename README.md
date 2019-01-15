@@ -1,4 +1,7 @@
 # GroupMaker
 An intelligent group maker.
 
-*If the application does not run on download, please download the most recent version of java. Thank you.
+**Download Instructions***
+
+
+*If the application fails to run, please download the most recent version of java. Thank you.
